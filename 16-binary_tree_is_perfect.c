@@ -29,9 +29,9 @@ int do_perfect_tree_check(const binary_tree_t *tree)
 }
 /**
  * binary_tree_is_perfect - checks if a tree is perfect
- * 
+ *
  * @tree: A pointer to tree to check
- * 
+ *
  * Return: Returns int 1 or 0
  */
 int binary_tree_is_perfect(const binary_tree_t *tree)

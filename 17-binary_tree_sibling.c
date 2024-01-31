@@ -4,7 +4,7 @@
  * binary_tree_sibling - checks if a node is a sibling
  *
  * @node: pointer to node to check
- * 
+ *
  * Return: returns a pointer to sibling node
  */
 

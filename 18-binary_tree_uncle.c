@@ -2,9 +2,9 @@
 
 /**
  * binary_tree_uncle - Checks if a node is sibling
- * 
+ *
  * @node: A pointer to node to check
- * 
+ *
  * Return: Returns a pointer to the the uncle node
  */
 
