@@ -3,7 +3,7 @@
 * binary_tree_insert_right - inserts a node in the right side of the parent
 *
 * @parent: A pointer to the parent node
-* 
+*
 * @value: The integer value of the node
 *
 * Return: A pointer to the new node or NULL

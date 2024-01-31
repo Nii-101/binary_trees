@@ -1,12 +1,11 @@
 #include "binary_trees.h"
 
 /**
+*binary_tree_delete - deletes a binary tree
 *
-* binary_tree_delete - deletes a binary tree
+*@tree: The binary tree to be deleted
 *
-* @tree: The binary tree to be deleted
-*
-* Return: void
+*Return: void
 */
 void binary_tree_delete(binary_tree_t *tree)
 {
