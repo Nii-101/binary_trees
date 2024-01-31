@@ -1,14 +1,13 @@
 #include "binary_trees.h"
 
 /**
+ *binary_tree_preorder - outputs the values of tree using pre-order
  *
- * binary_tree_preorder - outputs the values of tree using pre-order
+ *@tree: A pointer to the tree
  *
- * @tree: A pointer to the tree
+ *@func: A pointer to function
  *
- * @func: A pointer to function
- *
- * Return: void
+ *Return: void
  */
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
 {
