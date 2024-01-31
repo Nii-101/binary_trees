@@ -6,7 +6,7 @@
 * @tree: A pointer to tree
 *
 * @func: A pointer to function
-* 
+*
 * Return: void
 */
 void binary_tree_inorder(const binary_tree_t *tree, void (*func)(int))
