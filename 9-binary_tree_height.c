@@ -4,7 +4,7 @@
 * binary_tree_height - It computes the height of a binary tree
 *
 * @tree: A pointer to tree
-* 
+*
 * Return: returns int
 */
 
